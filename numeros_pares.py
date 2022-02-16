@@ -1,5 +1,4 @@
-
-i=2
-while(i<=20):
+i=3
+while(i<=30):
    print(i) 
-   i=i+2
+   i=i+3
