@@ -1,5 +1,5 @@
 
-i=2
-while(i<=20):
-   print 1: 
-   i=i+3
+i=75
+while(i<=1125):
+   print(i*0.165)
+   i=i+75
