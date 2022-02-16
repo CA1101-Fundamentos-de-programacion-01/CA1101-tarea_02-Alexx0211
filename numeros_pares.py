@@ -1,5 +1,3 @@
 
-i=75
-while(i<=1125):
-   print(i*0.165)
-   i=i+75
+for i in range(1,11):
+    print(2*i)
