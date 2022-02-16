@@ -1,3 +1,5 @@
 
-+for i in range(1,11):
-+  print(2*i)
+i=2
+while(i<=20):
+   print(i) 
+   i=i+2
